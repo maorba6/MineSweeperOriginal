@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+
+
+
+table{
+    border: 2px solid black;
+    background-color: lightcyan;
+    border-collapse: collapse;
+   
+    margin: auto;
+}
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    min-width: 50px;
+    min-height: 50px;
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+
+
+  .hidden{
+    color: lightcyan;
+  }
+
